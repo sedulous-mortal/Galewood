@@ -1,0 +1,81 @@
+body {
+  background-color: #000000;
+}
+
+p {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+  color: #a5b1f9; 
+  border:10px solid #2f5b06; 
+  padding:10px;
+  margin-left:100px;
+  margin-right:100px;
+}
+p2 {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  color: #a5b1f9; 
+  padding:10px;
+}
+p3 {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  color: #a5b1f9; 
+  padding:10px;
+}
+
+h1 {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  color: #355e3b;
+  font-size: 50px;
+}
+h2 {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  color: #355e3b;
+  font-size: 30px;
+}
+
+ul#menu {
+    padding: 0;
+    text-align: center;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: #413e39;
+}
+
+hunter{
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  color: green;
+  text-align: center; 
+  font-size: 30px;
+}
+
+guardian{
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  color: purple;
+  text-align: center;
+  font-size: 30px;
+}
+
+gatherer {
+  font-family: Rockwell, 'Courier Bold', Courier, Georgia, Times, 'Times New Roman', serif;
+  color: orange;
+  text-align: center;
+  font-size: 30px;
+}
+
+a:visited {color:navy; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
